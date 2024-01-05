@@ -1,0 +1,13 @@
+{
+  "domain": "fireboard",
+  "name": "FireBoard",
+  "after_dependencies": [],
+  "codeowners": ["@johnpdowling"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/johnpdowling/fireboard",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/johnpdowling/fireboard/issues",
+  "requirements": [],
+  "version": "0.0.1"
+}
