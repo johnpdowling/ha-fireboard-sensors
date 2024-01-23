@@ -1,0 +1,1 @@
+"""The FireBoard API integration."""
